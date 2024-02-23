@@ -20,7 +20,6 @@ csl: pandoc/csl/gost-r-7-0-5-2008-numeric.csl
 toc: true # Table of contents
 toc-depth: 2
 lof: true # List of figures
-lot: true # List of tables
 fontsize: 12pt
 linestretch: 1.5
 papersize: a4
@@ -55,8 +54,9 @@ biblatexoptions:
   - language=auto
   - autolang=other*
   - citestyle=gost-numeric
+
 ## Pandoc-crossref LaTeX customization
-figureTitle: "Рис."
+figureTitle: "Скриншот"
 tableTitle: "Таблица"
 listingTitle: "Листинг"
 lofTitle: "Список иллюстраций"
