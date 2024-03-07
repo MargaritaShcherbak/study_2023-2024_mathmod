@@ -14,7 +14,7 @@ FILTERS += --filter pandoc/filters/pandoc_fignos.py --filter pandoc/filters/pand
 ## System-wide pandoc-xnos
 # FILTERS += --filter pandoc-fignos --filter pandoc-eqnos --filter pandoc-tablenos --filter pandoc-secnos
 ## Use pandoc-crossref (https://github.com/lierdakil/pandoc-crossref)
-FILTERS += --filter pandoc-crossref
+# FILTERS += --filter pandoc-crossref
 ###
 PDF_ENGINE += --pdf-engine=xelatex --pdf-engine-opt=--shell-escape
 OPTIONS += --number-sections
