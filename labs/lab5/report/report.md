@@ -268,9 +268,7 @@ OpenModelica – это свободное программное обеспеч
 
 Таким образом, в ходе ЛР№5 я рассмотрела простейшую модель взаимодействия двух видов типа «хищник - жертва» — модель Лотки-Вольтерры. С помощью рассмотренного примера научилась решать задачи такого типа.
 
-# Список литературы
+# Список литературы{.unnumbered}
 
-1. The Lotka-Volterra model [Электронный ресурс]. Lotka_Volterra, 2023. URL: https://math-it.petrsu.ru/users/semenova/MathECO/Lections/Lotka_Volterra.pdf.
-2. Julia 1.10 Documentation [Электронный ресурс]. JuliaLang, 2023. URL: https://docs.julialang.org/en/v1/.
-3. OpenModelica User’s Guide [Электронный ресурс]. Open Source Modelica
-Consortium, 2024. URL: https://openmodelica.org/doc/OpenModelicaUsersGuide/latest/.
+::: {#refs}
+:::
