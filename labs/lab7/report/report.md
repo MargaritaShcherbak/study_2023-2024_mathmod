@@ -149,8 +149,7 @@ OpenModelica – это свободное программное обеспеч
 
 Таким образом, в ходе ЛР№7 я рассмотрела математическую модель распространения рекламы. С помощью рассмотренной модели и теоретических сведений научилась строить модели такого типа.
 
-# Список литературы
+# Список литературы{.unnumbered}
 
-1. The simplest mathematical models of population dynamics [Электронный ресурс]. The Malthus Model. URL: https://clck.ru/39TKb6.
-2. Julia 1.10 Documentation [Электронный ресурс]. JuliaLang, 2023. URL: https://docs.julialang.org/en/v1/.
-3. OpenModelica User’s Guide [Электронный ресурс]. Open Source Modelica Consortium, 2024. URL: https://openmodelica.org/doc/OpenModelicaUsersGuide/latest/.
+::: {#refs}
+:::
